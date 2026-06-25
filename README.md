@@ -3,7 +3,7 @@
 -->
 
 ## Hi there, I'm Rosco! 👋
-### I'm a third-year computer science university student.
+### I'm a recent graduate from the University of East Anglia.
 
 I am particularly interested in high-level programming and web development.
 
